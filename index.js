@@ -17,3 +17,9 @@ function multiply(a, b) {
   }
   return result;
 }
+
+module.exports = {
+  add,
+  subtract,
+  multiply,
+};
